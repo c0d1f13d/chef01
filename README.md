@@ -7,3 +7,6 @@ Update via website
 
 
 More text to test merge conflict
+
+
+Merge conflict from github
