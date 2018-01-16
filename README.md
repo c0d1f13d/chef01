@@ -7,3 +7,4 @@ Update via website
 
 
 More text to test merge conflict
+Merge conflict text editor line 2
